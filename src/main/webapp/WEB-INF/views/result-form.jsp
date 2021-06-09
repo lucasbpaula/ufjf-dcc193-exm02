@@ -9,7 +9,7 @@
 </head>
 <body>
     <h1>Formulário: Resultado</h1>
-    <p>Olá <strong>${nome}!</strong></p>
-    <p>Você tem <strong>${idade}</strong> anos!</p>
+    <p>Olá <strong>${pessoa.nome}!</strong></p>
+    <p>Você tem <strong>${pessoa.idade}</strong> anos!</p>
 </body>
 </html>
